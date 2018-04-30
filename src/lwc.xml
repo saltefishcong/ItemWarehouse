@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lwc>
+   <class path="com.Itemhouse.eity.article" id="article">     
+   </class>
+   
+   <class path="com.Itemhouse.eity.comment" id="comment">       
+   </class>
+   
+   <class path="com.Itemhouse.eity.consumer" id="consumer">       
+   </class>
+   
+   <class path="com.Itemhouse.eity.email" id="email">       
+   </class>
+   
+   <class path="com.Itemhouse.eity.order" id="order">       
+   </class>
+   
+   <class path="com.Itemhouse.eity.produce" id="produce">       
+   </class>
+   
+   <class path="com.Itemhouse.eity.store" id="store">       
+   </class>
+   
+   <class path="com.Itemhouse.eity.transaction" id="transaction">       
+   </class>
+   
+   <class path="com.Itemhouse.Dao.articleDao" id="articleDao">
+   <object type="true"></object>         
+   </class>
+   
+    <class path="com.Itemhouse.Dao.commentDao" id="commentDao">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Dao.consumerDao" id="consumerDao">     
+    <object type="true"></object>  
+    </class>
+    
+     <class path="com.Itemhouse.Dao.emailDao" id="emailDao">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Dao.orderDao" id="orderDao">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Dao.produceDao" id="produceDao">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Dao.storeDao" id="storeDao">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Dao.transactionDao" id="transactionDao">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Aid.randomNumber" id="randomNumber">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Aid.converter" id="converter">     
+    <object type="true"></object>  
+    </class>
+    
+     <class path="com.Itemhouse.Aid.Mail" id="Mail">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Aid.resolveUtil" id="resolveUtil">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.DaoImp.storeDaoImp" id="storeDaoImp">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.DaoImp.consumerDaoImp" id="consumerDaoImp">     
+    <object type="true"></object>  
+    </class>
+    
+    <class path="com.Itemhouse.Dao.buycarDao" id="buycarDao">     
+    <object type="true"></object>  
+    </class>
+</lwc>
